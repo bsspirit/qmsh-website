@@ -1463,3 +1463,16 @@ section .headline
         text-align: center;
     }
 }
+
+.row
+{
+    margin:8px;
+}
+
+#customer .brand-logo ul li
+{
+    float: left;
+    width: 25%;
+    padding: 0 10px 30px 10px;
+
+}
