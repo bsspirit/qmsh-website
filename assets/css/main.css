@@ -1476,3 +1476,10 @@ section .headline
     padding: 0 10px 30px 10px;
 
 }
+
+#contact a{
+    color: #e6e6e6;
+}
+#contact a:hover{
+    color: #13bbbd;
+}
